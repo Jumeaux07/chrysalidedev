@@ -14,7 +14,7 @@
                             <div class="d-flex align-items-center mb-30">
                                 <div class="mr-30">
                                     <div class="img icon-img-40">
-                                        <img src="assets/imgs/resume/laravel.png" alt="">
+                                        <img src="{{asset('assets/imgs/resume/laravel.png')}}" alt="">
                                     </div>
                                 </div>
                                 <div>
@@ -32,7 +32,7 @@
                             <div class="d-flex align-items-center mb-30">
                                 <div class="mr-30">
                                     <div class="img icon-img-40">
-                                        <img src="assets/imgs/resume/flutter.png" alt="">
+                                        <img src="{{asset('assets/imgs/resume/flutter.png')}}" alt="">
                                     </div>
                                 </div>
                                 <div>
@@ -50,7 +50,7 @@
                             <div class="d-flex align-items-center mb-30">
                                 <div class="mr-30">
                                     <div class="img icon-img-40">
-                                        <img src="assets/imgs/resume/php.png" alt="">
+                                        <img src="{{asset('assets/imgs/resume/php.png')}}" alt="">
                                     </div>
                                 </div>
                                 <div>
@@ -68,7 +68,7 @@
                             <div class="d-flex align-items-center mb-30">
                                 <div class="mr-30">
                                     <div class="img icon-img-40">
-                                        <img src="assets/imgs/resume/s4.png" alt="">
+                                        <img src="{{asset('assets/imgs/resume/s4.png')}}" alt="">
                                     </div>
                                 </div>
                                 <div>
