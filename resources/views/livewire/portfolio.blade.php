@@ -5,7 +5,7 @@
                 <div class="col-lg-6">
                     <h6 class="sub-title opacity-7 mb-15">Our Portfolio</h6>
                     <h3>Regardez mon travail et
-                         <br> donnez-nous <span class="main-color">donnez-nous votre avis</span></h3>
+                         <br> donnez <span class="main-color">votre avis</span></h3>
                 </div>
                 <div class="col-lg-6 valign">
                     <div class="go-more full-width d-flex justify-content-end">
