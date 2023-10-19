@@ -158,7 +158,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="text-center">
-                        <p class="fz-13">© 2023 <span class="underline main-color"><a
+                        <p class="fz-13">© {{date('Y')}} <span class="underline main-color"><a
                                     href="{{route('home')}}" target="_blank">Chrysalidedev</a></span>
                         </p>
                     </div>

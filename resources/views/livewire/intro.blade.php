@@ -29,7 +29,7 @@
             </div>
         </div>
         <div class="col-lg-8 content main-bg">
-            <h1>Salut, Je suis <span class="main-color">c ZOUZOUA</span>, Développeur full-stack
+            <h1>Salut, Je suis <span class="main-color">Cedric ZOUZOUA</span>, Développeur full-stack
                  {{-- <span class="bord">UX / UI Designer <i></i></span>  --}}
                  Basé en Côte d'Ivoire.</h1>
             <div class="stauts mt-80">
@@ -40,12 +40,6 @@
                             <p>Ans <br> d'Expériance</p>
                         </div>
                     </div>
-                    {{-- <div class="mr-40">
-                        <div class="d-flex align-items-center">
-                            <h2>6k</h2>
-                            <p>Clients <br> Worldwide</p>
-                        </div>
-                    </div> --}}
                     <div>
                         <div class="butn-presv">
                             <a href="#0" class="butn butn-md butn-bord radius-5 skew">
