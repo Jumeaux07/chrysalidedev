@@ -3,13 +3,13 @@
         <div class="sec-head mb-80">
             <div class="row">
                 <div class="col-lg-6 wow fadeIn">
-                    <h6 class="sub-title opacity-7 mb-15">Our Blog</h6>
-                    <h3>Latest News & <span class="main-color">Blog</span></h3>
+                    {{-- <h6 class="sub-title opacity-7 mb-15">Our Blog</h6> --}}
+                    <h3> Actualité & <span class="main-color">Blog</span></h3>
                 </div>
                 <div class="col-lg-6 valign">
                     <div class="go-more full-width d-flex justify-content-end">
                         <a href="blogs.html" class="d-flex">
-                            <span>View All Posts <svg class="arrow-right" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 34.2 32.3" xml:space="preserve" style="stroke-width: 2;">
+                            <span>Voir tous mes Posts <svg class="arrow-right" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 34.2 32.3" xml:space="preserve" style="stroke-width: 2;">
                                 <line x1="0" y1="16" x2="33" y2="16"></line>
                                 <line x1="17.3" y1="0.7" x2="33.2" y2="16.5"></line>
                                 <line x1="17.3" y1="31.6" x2="33.5" y2="15.4"></line>

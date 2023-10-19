@@ -6,8 +6,8 @@
         <livewire:service/>
         <livewire:competence/>
         <livewire:portfolio/>
-        <livewire:temoignage/>
-        <livewire:prix/>
+        {{-- <livewire:temoignage/> --}}
+        {{-- <livewire:prix/> --}}
         <livewire:contact/>
         <livewire:blogextrait/>
     </section>
