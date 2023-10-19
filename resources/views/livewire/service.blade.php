@@ -46,7 +46,7 @@
                     </span>
                     <h6 class="text-u ls1 mb-15">Technology Solution</h6>
                     <p>There are many variations of passages of available but to the majority have suffered but
-                        the into majority.</p>
+                        the into majority. </p>
                     <div class="bord-color"></div>
                 </div>
             </div>
